@@ -2,7 +2,7 @@
   "name": "Github actions test",
   "version": "1.0.0",
   "description": "A simple github actions test",
-  "main": "./app.js",
+  "main": "./src/app.js",
   "scripts": {
     "test": "bash src/test.sh"
   },
